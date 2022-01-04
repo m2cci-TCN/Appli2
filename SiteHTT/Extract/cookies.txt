@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thomasclapasson.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1641330977|QN-zbrXPijgL
+thomasclapasson.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=42
+.wixsite.com	TRUE	/	FALSE	1999999999	_wixAB3	369024#1
+.wixsite.com	TRUE	/	FALSE	1999999999	TS01b51863	018d9e98b6545a9d63569db1e53621abec011cf1ab1fa2b2d0afdd77dbfe631a8fda9880482f6e5612ea8a6ac9a14f1e59990fd53ae8f0db680eb6674d886fa01ef9e41ceb2157d3cb83c2cab012704201e15d8220
+thomasclapasson.wixsite.com	TRUE	/	FALSE	1999999999	TS0148e245	018d9e98b62b01ff9a10dfeb15b2c5bd4b39b714ed1fa2b2d0afdd77dbfe631a8fda9880482f6e5612ea8a6ac9a14f1e59990fd53a49febf32e7d4c4e03b7262358998b787
+.wix.com	TRUE	/	FALSE	1999999999	TS017efd68	018d9e98b6545a9d63569db1e53621abec011cf1ab1fa2b2d0afdd77dbfe631a8fda9880482f6e5612ea8a6ac9a14f1e59990fd53ae8f0db680eb6674d886fa01ef9e41ceb2157d3cb83c2cab012704201e15d8220
+.wix.com	TRUE	/	FALSE	1999999999	_wixAB3	369024#1
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	017c5c4d46f3596bf01b275336be76e8b54386751900469e4985d5f434e0620715cf7b9e47931a257d408424fe98911873bd668a90
+thomasclapasson.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
